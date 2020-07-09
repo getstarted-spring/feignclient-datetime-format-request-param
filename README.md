@@ -1,3 +1,3 @@
-# Configure Java 8 Date & Time Format for Request Parameter in @FeignClient
+# Feign Client - Configure Date & Time Format in Request Parameter
 
 Get Started with Spring
